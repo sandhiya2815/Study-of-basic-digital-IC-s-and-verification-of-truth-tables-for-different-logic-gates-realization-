@@ -80,7 +80,8 @@ endmodule
 ```
 
 Truth Table:
-image
+![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/038e642f-e0cb-4ca2-af90-b8141575893e)
+
 RTL realization
 ![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/045f2ea7-8943-4401-a938-6b42784b73e8)
 
