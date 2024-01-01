@@ -78,12 +78,17 @@ nor(y6,a,b);
 xnor (y7,a,b);
 endmodule
 ```
-
-Truth Table:
-![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/038e642f-e0cb-4ca2-af90-b8141575893e)
-
 RTL realization
-![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/045f2ea7-8943-4401-a938-6b42784b73e8)
+![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/5fb83fcf-c6b4-4017-9ed8-706d7dc59a20)
+
+Truth Table
+
+![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/b1d6ab72-a406-43c3-871f-de72170cc60f)
+
+Timing Diagram
+
+![image](https://github.com/sandhiya2815/Study-of-basic-digital-IC-s-and-verification-of-truth-tables-for-different-logic-gates-realization-/assets/155123230/d69b05cb-2d73-4c95-b165-12664be2a80a)
+
 
 
 
